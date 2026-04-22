@@ -1,2 +1,2 @@
 # homework_bot
-python telegram bot
+Learning project | Telebot, Requests
