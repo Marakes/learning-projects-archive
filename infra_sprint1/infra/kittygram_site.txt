@@ -1,0 +1,5 @@
+IP: 51.250.26.112;
+name_taski: https://firstcba11.webhop.me;
+name_kittygram: https://second92.sytes.net;
+login: 1;
+password: 1;
