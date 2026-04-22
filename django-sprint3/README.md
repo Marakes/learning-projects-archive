@@ -1,1 +1,2 @@
 # Blogicum
+Learning project | Django
