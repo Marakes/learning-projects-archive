@@ -1,3 +1,3 @@
 # api_yamdb
-Learning project | Django, DRF, Djoser, Jinja2
+Learning project | Django, DRF, Djoser, Jinja2, Requests
 
