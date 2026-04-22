@@ -1,0 +1,27 @@
+.error-page {
+  max-width: 600px;
+  margin: 100px auto;
+  text-align: center;
+  font-family: sans-serif;
+  color: #333;
+}
+.error-page h1 {
+  font-size: 64px;
+  color: #d72638;
+}
+.error-page p {
+  font-size: 20px;
+  margin: 20px 0;
+}
+.error-page a {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #0077cc;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+}
+.error-page a:hover {
+  background-color: #005fa3;
+}
